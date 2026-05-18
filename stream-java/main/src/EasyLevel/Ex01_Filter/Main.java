@@ -1,4 +1,4 @@
-package Ex01_Filter;
+package EasyLevel.Ex01_Filter;
 
 import java.util.List;
 
